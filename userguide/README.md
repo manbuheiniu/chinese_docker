@@ -61,5 +61,7 @@ docker提供了一个基于容器的应用程序虚拟化平台。学习如何�
 
 现在我们应该学习更多关于docker的知识。我们将看到如何使用docker在Docker Hub构建可信任的私人存储库。
 
+我们将看到如何使用docker在Docker Hub构建可信任的私人存储库。
+
 阅读[使用Docker Hub](dockerrepos.md)
 
